@@ -1,80 +1,34 @@
-# Project Title
+# Makeover Monday - Week[##]
 
-One Paragraph of project description goes here
+## Original visualization
+![Original visualization](https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg)
 
-## Getting Started
+Brief introduction the topic of the week.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### What works well
+* This
+* This
+* Last but not least... this
 
-### Prerequisites
+### What could be improved
+* This
+* This
+* Last but not least... this
 
-What things you need to install the software and how to install them
+## What I did
+![Your visualizaiton](http://metacentricities.com/wp-content/uploads/2016/09/Lion-5.jpg)
 
-```
-Give examples
-```
 
-### Installing
+Describe your approach this week. What were you interested in learning? What was interested in improving from the original? What unique challenges did you face? None 😒... let's be real
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Follow me on Twitter [@handle](twitter.com/handle)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [D3v4](https://d3js.org/d3.v4.min.js) - JavaScript visualization kernel
+* [Materialize CSS](https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css) - Based on Google's design philosophy
+* [Materialize JS](https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js)- Materialize dependancy
+* [jQuery](https://code.jquery.com/jquery-3.2.1.min.js) - Materialize dependancy
 
 ## License
 
@@ -82,6 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* [Eva Murray](https://twitter.com/TriMyData) & [Andy Kriebel](https://twitter.com/VizWizBI)
+* [Data Source](datasource.com)
+* Other inspirations that contributed to your creation
