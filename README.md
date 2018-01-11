@@ -8,12 +8,12 @@ Brief introduction the topic of the week.
 #### What works well
 * This
 * This
-* Last but not least... this
+* ...
 
-### What could be improved
+#### What could be improved
 * This
 * This
-* Last but not least... this
+* ...
 
 ### What I did
 ![Your visualizaiton](http://metacentricities.com/wp-content/uploads/2016/09/Lion-5.jpg)
@@ -22,6 +22,12 @@ Brief introduction the topic of the week.
 Describe your approach this week. What were you interested in learning? What was interested in improving from the original? What unique challenges did you face? None 😒... let's be real
 
 Follow me on Twitter [@handle](twitter.com/handle)
+
+## Acknowledgments
+
+This project would be what it is without the efforts of [Andy Kriebel](https://twitter.com/VizWizBI) and [Eva Murray](https://twitter.com/TriMyData), so be sure to give a shout out.
+
+There was likely other inspirations that contributed to your creation. This is a good place to give credit where credits due. That way others can be inspired like you.
 
 ### Built With
 
@@ -33,9 +39,3 @@ Follow me on Twitter [@handle](twitter.com/handle)
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-### Acknowledgments
-
-* [Eva Murray](https://twitter.com/TriMyData) & [Andy Kriebel](https://twitter.com/VizWizBI)
-* [Data Source](datasource.com)
-* Other inspirations that contributed to your creation
