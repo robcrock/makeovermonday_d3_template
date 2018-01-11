@@ -1,11 +1,11 @@
 # Makeover Monday - Week[##]
 
-## Original visualization
+### Original visualization
 ![Original visualization](https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg)
 
 Brief introduction the topic of the week.
 
-### What works well
+#### What works well
 * This
 * This
 * Last but not least... this
@@ -15,7 +15,7 @@ Brief introduction the topic of the week.
 * This
 * Last but not least... this
 
-## What I did
+### What I did
 ![Your visualizaiton](http://metacentricities.com/wp-content/uploads/2016/09/Lion-5.jpg)
 
 
@@ -23,18 +23,18 @@ Describe your approach this week. What were you interested in learning? What was
 
 Follow me on Twitter [@handle](twitter.com/handle)
 
-## Built With
+### Built With
 
 * [D3v4](https://d3js.org/d3.v4.min.js) - JavaScript visualization kernel
 * [Materialize CSS](https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css) - Based on Google's design philosophy
 * [Materialize JS](https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js)- Materialize dependancy
 * [jQuery](https://code.jquery.com/jquery-3.2.1.min.js) - Materialize dependancy
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * [Eva Murray](https://twitter.com/TriMyData) & [Andy Kriebel](https://twitter.com/VizWizBI)
 * [Data Source](datasource.com)
